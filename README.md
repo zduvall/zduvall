@@ -8,15 +8,15 @@
 </a>
 
 # Feel free to reach out!
-<a href="https://www.linkedin.com/in/zachary-duvall/">
+<a href="https://www.linkedin.com/in/zachary-duvall/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://zduvall.github.io/#">
+<a href="https://zduvall.github.io/#" target="_blank">
 <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
-<a href="https://angel.co/u/zachary-duvall">
+<a href="https://angel.co/u/zachary-duvall" target="_blank">
 <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
 </a>
 
