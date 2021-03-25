@@ -1,4 +1,4 @@
-# My Github at a glance
+## My Github at a glance
 <a href="https://github.com/zduvall/zduvall">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
@@ -7,7 +7,7 @@
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=zduvall&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
 
-## Let's connect
+### Let's connect
 <a href="https://www.linkedin.com/in/zachary-duvall/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
