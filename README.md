@@ -1,4 +1,4 @@
-# Metrics | Data is Beautiful
+# My Github at a glance
 <a href="https://github.com/zduvall/zduvall">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
