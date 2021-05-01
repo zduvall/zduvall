@@ -7,7 +7,7 @@
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
 
-### Let's connect!
+### Let's connect! Open to work!
 <a href="https://www.linkedin.com/in/zachary-duvall/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
