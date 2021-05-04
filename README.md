@@ -22,6 +22,4 @@
 
 ### Open to work!
 
-<!--
-**zduvall/zduvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **zduvall/zduvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
