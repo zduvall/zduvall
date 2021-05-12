@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
 </a>
 
-### Open to work! Feel free to reach out.
+### Open to work! Feel free to reach out!
 
 <!-- **zduvall/zduvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
