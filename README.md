@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/zduvall/zduvall">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
+  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
 
 ### Let's connect:
