@@ -8,6 +8,8 @@
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
 
+|
+
 ### Let's connect!
 
 <a href="https://www.linkedin.com/in/zachary-duvall/" target="_blank">
