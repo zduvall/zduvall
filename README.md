@@ -10,7 +10,7 @@
 
 ---
 
-### Feel free to reach out!
+### Let's connect!
 
 <a href="https://www.linkedin.com/in/zachary-duvall/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
