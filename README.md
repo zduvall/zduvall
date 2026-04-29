@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=200&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;Software+Engineer;Building+cool+things)
-
-### My GitHub at a glance:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=100&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;Software+Engineer;Building+cool+things)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
 
@@ -11,10 +9,6 @@
 <a href="https://github.com/zduvall/zduvall">
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
-
----
-
-### Let's connect!
 
 <a href="https://www.linkedin.com/in/zachary-duvall/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
