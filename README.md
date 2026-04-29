@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
+
+[![Zach's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zduvall&theme=vue-dark)](https://github.com/zduvall)
+
 <!-- <a href="https://angel.co/u/zachary-duvall" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
 </a>
