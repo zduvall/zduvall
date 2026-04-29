@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=100&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;Software+Engineer;Building+cool+things)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=100&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;I'm+competent;Trust+me+bro)
 
 ---
 
