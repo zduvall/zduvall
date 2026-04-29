@@ -8,6 +8,8 @@
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
+
 ---
 
 ### Let's connect!
@@ -20,13 +22,11 @@
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
-
-[![Zach's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zduvall&theme=vue-dark)](https://github.com/zduvall)
+<!-- [![Zach's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zduvall&theme=vue-dark)](https://github.com/zduvall) -->
 
 <!-- <a href="https://angel.co/u/zachary-duvall" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
-</a>
- -->
+</a> -->
+
 
 <!-- This repo **zduvall/zduvall** is a ✨ _special_ ✨ repository -- its `README.md` (this file) appears on your GitHub profile. -->
