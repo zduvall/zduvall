@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;Software+Engineer;Python+%7C+JavaScript+%7C+Space+Systems;Building+cool+things+in+private+repos+🚀)
+
 ### My GitHub at a glance:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
