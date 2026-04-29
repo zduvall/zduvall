@@ -1,5 +1,3 @@
-![snake gif](https://github.com/zduvall/zduvall/blob/output/github-contribution-grid-snake.svg)
-
 ### My GitHub at a glance:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
