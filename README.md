@@ -1,5 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=100&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;I'm+competent;Trust+me+bro)
 
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&typeSpeed=25&pause=75&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;I'm+competent;Trust+me+bro)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&typeSpeed=15&pause=20&color=41B883&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zach+Duvall;I'm+competent;Trust+me+bro)
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
