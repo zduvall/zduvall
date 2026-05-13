@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=41B883&center=true&vCenter=true&width=800&duration=4000&lines=Hi%2C+I'm+Zachary+Duvall;I'm+competent;Trust+me+bro)
 
 ---
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=zduvall&theme=vue-dark)](https://git.io/streak-stats)
 
 <a href="https://github.com/zduvall/zduvall">
@@ -21,7 +21,7 @@
 <a href="https://zduvall.github.io/#" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
-
+-->
 <!-- [![Zach's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zduvall&theme=vue-dark)](https://github.com/zduvall) -->
 
 <!-- <a href="https://angel.co/u/zachary-duvall" target="_blank">
